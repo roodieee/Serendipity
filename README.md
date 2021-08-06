@@ -140,7 +140,7 @@ body {
     <div style="background-image: url('https://i.ytimg.com/vi/bIpzLC-c6Qo/maxresdefault.jpg');">
 
     
-    <p>
+    
 Pretty bouring right , nahh man….
 
 NAHH LET’S MOVE ON FROM THE TOPIC
